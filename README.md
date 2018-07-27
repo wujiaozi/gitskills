@@ -7,3 +7,5 @@ example
 origin dev test
 
 check log
+
+rebase test
