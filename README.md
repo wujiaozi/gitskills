@@ -8,4 +8,10 @@ origin dev test
 
 check log
 
-rebase test
+edit
+
+push test
+
+rebase test (learngit/gitskills)
+
+rebase test(learngit)
