@@ -13,3 +13,6 @@ edit
 push test
 
 check log
+
+rebase test (learngit/gitskills)
+
