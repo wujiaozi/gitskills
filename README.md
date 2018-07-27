@@ -11,3 +11,5 @@ pull origin dev
 edit
 
 push test
+
+check log
