@@ -4,4 +4,4 @@ Creating a new branch is quick and simple.
 
 example
 
-no-ffdev
+conf
